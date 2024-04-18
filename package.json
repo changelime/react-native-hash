@@ -41,7 +41,7 @@
   "readmeFilename": "README.md",
   "peerDependencies": {
     "react": "^18.1.0",
-    "react-native": "^0.71"
+    "react-native": "^0.73.6"
   },
   "devDependencies": {
     "@babel/core": "^7.18.10",
